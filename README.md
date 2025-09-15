@@ -6,7 +6,6 @@
 
 ### About Me
 
-- 🔧 Currently working on a **class project** as the **Backend Developer**, also assisting the **Frontend team**, and consulting for the **Design & Documentation team** thanks to my passion and experience in **Graphic Design**
 - 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**
 - 🌱 I’m currently learning **React, React Native, Node.js, Flutter, Databases and Machine Learning**l
 - ✨ I’m a creative thinker with an eye for design and code that delivers value
