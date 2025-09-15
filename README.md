@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emmanuel 
 
-**Software Engineering Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher**
+**SWE Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher**
 
 ---
 
