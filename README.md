@@ -33,15 +33,15 @@
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Expo" width="30px" src="https://raw.githubusercontent.com/expo/expo/main/website/static/favicon.png" />
+<img align="left" alt="Expo" width="30px" src="https://raw.githubusercontent.com/expo/expo/main/docs/static/favicon.png" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Affinity Photo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Affinity_Photo_logo.png/600px-Affinity_Photo_logo.png" />
+<img align="left" alt="Affinity Photo" width="30px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/photoshop.svg" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-<img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Logo.svg" />
+<img align="left" alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
 <br><br>
 
 ---
