@@ -33,26 +33,50 @@
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Expo" width="30px" src="https://raw.githubusercontent.com/expo/expo/main/website/static/favicon.png" />
+<img align="left" alt="Expo" width="30px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<img align="left" alt="Affinity Photo" width="30px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/photoshop.svg" />
+<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" />
 <img align="left" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br><br>
 
 ---
 
+### Software Engineering Skills
+- UML & Modeling: Use case diagrams, sequence diagrams, ERDs, class diagrams
+- SDLC: Agile/Scrum, and Waterfall
+- Version Control: Git, and GitHub
+- CI/CD: GitHub Actions
+
+---
+
+### Relevant Certifications
+- FullStack Wrb Developemnt - Udemy 
+- FullStack Web Development - Science Exploration Zambia (SEZ) 
+- Graphic Design - Udemy 
+- Web Designa and Creation - Shumba Training Center
+
+---
+
+### Areas of Interest
+- Mobile-first development for underserved communities  
+- AI-assisted education systems  
+- Offline-first apps and progressive web apps (PWAs)  
+
+---
+
 ### Currently Exploring:
-- Backend frameworks & APIs
-- Frontend frameworks
-- Modern JavaScript libraries
-- Databases like MariaDB, PostgreSQL, Supabase, Firebase, etc.
-- Cybersecurity tools and practices
-- AI & ML for software solutions
-- Mobile-first & progressive web app development
+- Backend frameworks & APIs  
+- Frontend frameworks  
+- Modern JavaScript libraries  
+- Databases like MariaDB, PostgreSQL, Supabase, Firebase, etc.  
+- Cybersecurity tools and practices  
+- AI & ML for software solutions  
+- Mobile-first & progressive web app development  
 
 ---
 
