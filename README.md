@@ -1,19 +1,18 @@
-# Hi 👋, I'm Emmanuel 
-
-**SWE Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher**
+<p align="center">
+  <h1>Hi 👋, I'm Emmanuel</h1>
+  <strong>SWE Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher</strong>
+</p>
 
 ---
 
 ### About Me
 
-- 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**
-- 🌱 I’m currently learning **React, React Native, Node.js, Flutter, Databases and Machine Learning**l
-- ✨ I’m a creative thinker with an eye for design and code that delivers value
+- 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
+- 🌱 I’m currently learning **React, React Native, Node.js, Flutter, Databases, and Machine Learning**.
+- ✨ I’m a creative thinker with an eye for design and code that delivers value.
 - 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), [Telegram](t.me/EM_GOM), & [Portfolio Website](https://mwambae.vercel.app)
-- 🧑‍💻 Open to freelance work – currently freelancing on **Upwork**
+- 🧑‍💻 Open to freelance work – currently freelancing on **Upwork**.
 - 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
-
----
 
 ---
 
@@ -34,7 +33,6 @@
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Canva" width="30px" src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" />
 <br><br>
 
 ---
@@ -43,8 +41,10 @@
 - Backend frameworks & APIs
 - Frontend frameworks
 - Modern JavaScript libraries
-- Databases like MariaDB, PostgreSQL, Supabase, Firebase, etc
+- Databases like MariaDB, PostgreSQL, Supabase, Firebase, etc.
 - Cybersecurity tools and practices
+- AI & ML for software solutions
+- Mobile-first & progressive web app development
 
 ---
 
@@ -66,8 +66,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ---
-  
+
 <!---
 EmmanuelMwamba/EmmanuelMwamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
