@@ -1,5 +1,5 @@
-<p text-align="center">
-  <h1>Hi 👋, I'm Emmanuel</h1>
+ <p text-align="center">
+                                                            <h1>Hi 👋, I'm Emmanuel</h1>
   <strong>SWE Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher</strong>
 </p>
 
