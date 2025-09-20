@@ -1,4 +1,4 @@
-<p align="center">
+<p text-align="center">
   <h1>Hi 👋, I'm Emmanuel</h1>
   <strong>SWE Student | Web Developer | Tech Innovator | Cybersecurity Enthusiast | Graphic Designer | Strategist | Speaker | Preacher</strong>
 </p>
@@ -8,16 +8,15 @@
 ### About Me
 
 - 💻 I’m focused on enhancing my skills in **Backend Development**, **Frontend Development**, **Mobile App Development**, **Web Development**, and **Modern Web & Mobile Technologies**.
-- 🌱 I’m currently learning **React, React Native, Node.js, Flutter, Databases, and Machine Learning**.
+- 🌱 I’m currently learning **React, React Native, Expo, Node.js, Flutter, and Databases**.
 - ✨ I’m a creative thinker with an eye for design and code that delivers value.
 - 🌐 Portfolio & links: [TikTok](https://www.tiktok.com/@emmanuel_graceovermoney?_t=ZM-8vKb6BBnyLt&_r=1), [Telegram](t.me/EM_GOM), & [Portfolio Website](https://mwambae.vercel.app)
-- 🧑‍💻 Open to freelance work – currently freelancing on **Upwork**.
 - 📝 Experience: [LinkedIn](https://www.linkedin.com/in/emmanuel-mwamba-677186301)
 
 ---
 
 ### Connect with Me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/EM_GOM_?t=eGZW8JlmA8TeA1LCfNYICQ&s=09)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EM_GOM_?t=eGZW8JlmA8TeA1LCfNYICQ&s=09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emmanuel-mwamba-677186301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AHUuryLyg/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel_graceovermoney?igsh=dXF5cWliMm4zMWI2)
@@ -26,13 +25,24 @@
 ---
 
 ### Languages & Tools I Use:
+### Languages & Tools I Use:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="React Native" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="Expo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Expo_logo.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Affinity Photo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Affinity_Photo_logo.png" />
+<img align="left" alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_Logo.svg" />
 <br><br>
 
 ---
